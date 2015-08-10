@@ -1,2 +1,2 @@
 # beginning
-just a start to git
+just a start towards git
